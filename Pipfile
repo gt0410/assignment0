@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 ipython = "*"
 pytest = "*"
+urllib = "*"
+numpy = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
