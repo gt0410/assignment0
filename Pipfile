@@ -6,11 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-ipython = "*"
 pytest = "*"
-urllib = "*"
-numpy = "*"
-requests = "*"
 
 [requires]
 python_version = "3.7"
